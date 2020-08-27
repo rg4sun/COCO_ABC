@@ -1,4 +1,4 @@
-## 安装COCO API
+## python使用pip安装COCO API
 
 ### 直接pip安装
 
@@ -28,3 +28,10 @@
 
 好在过了一会儿，安装好了
 
+测试一下能否import
+
+<img src="./5.png" alt="5" style="zoom:50%;" />
+
+发现已经能智能识别到此库了
+
+至此，python的COCO API安装成功！！
