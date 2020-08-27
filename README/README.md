@@ -22,3 +22,9 @@
 
 <img src="./3.png" alt="3" style="zoom:50%;" />
 
+即使是清华源，好像还是有点小慢。，。
+
+<img src="./4.png" alt="4" style="zoom:50%;" />
+
+好在过了一会儿，安装好了
+
